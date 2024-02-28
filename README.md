@@ -1,5 +1,6 @@
 # Olá! Eu sou o Olavo Regis ✔️
 <p>Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolvimento de Sistemas, explorando a criação e implementação de soluções inovadoras de software.</p>
+
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/olavo-regis-22b57b297/)
@@ -23,7 +24,8 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p>Entusiasta da Tecnologia da Informação em constante evolução</p>
-## GitHUb Stats
+
+### GitHUb Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olavo15&theme=transparent&bg_color=000&border_color=D92525&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#F28705)
 
