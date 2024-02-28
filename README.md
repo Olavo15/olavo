@@ -1,7 +1,4 @@
-
-# Olavo Regis
-Entusiasta da Tecnologia da Informação em constante evolução.
-Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolvimento de Sistemas, explorando a criação e implementação de soluções inovadoras de software. Comprometido com a aprendizagem contínua, busco aprimorar minhas habilidades em programação, design de banco de dados e desenvolvimento web. Aberto a desafios e sempre em busca de oportunidades para contribuir e aprender no mundo dinâmico da tecnologia.
+# Olá! Eu sou o Olavo Regis ✔️
 
 ## Conecte-se Comigo
 
@@ -24,6 +21,8 @@ Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolv
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+Entusiasta da Tecnologia da Informação em constante evolução
 ## GitHUb Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olavo15&theme=transparent&bg_color=000&border_color=D92525&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#F28705)
