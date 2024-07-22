@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Olavo15/Olavo15/blob/output/github-contribution-grid-snake.gif)
+
 # Olá! Eu sou o Olavo Regis ✔️
 <p>Atualmente, estou aprofundando meus conhecimentos ao cursar Análise e Desenvolvimento de Sistemas, explorando a criação e implementação de soluções inovadoras de software.</p>
 
