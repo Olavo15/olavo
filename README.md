@@ -10,6 +10,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com) -->
 
 ## Tecnologia e ferramentas: 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,9 +27,11 @@
 <p>Entusiasta da Tecnologia da Informação em constante evolução</p>
 
 ### GitHUb Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olavo15&theme=transparent&bg_color=000&border_color=D92525&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=#F28705)
 
 ## Contributions
+
 ![snake gif](https://github.com/Olavo15/Olavo15/blob/output/github-contribution-grid-snake.gif)
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Olavo15&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
